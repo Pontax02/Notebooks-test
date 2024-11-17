@@ -1,3 +1,3 @@
 # Notebooks Storage :)
 
-**En este repo se almacenan losjupiter notebooks hechos**
+En este repo se almacenan los jupiter notebooks hechos
